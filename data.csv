@@ -1,0 +1,15 @@
+Time,Season,Humidity,Wind,Target Weather
+Morning,Spring,Low,Light,Sunny
+Morning,Summer,Low,Strong,Sunny
+Morning,Fall,Medium,Light,Sunny
+Morning,Winter,High,Strong,Cloudy
+Afternoon,Spring,Medium,Light,Sunny
+Afternoon,Summer,High,Strong,Sunny
+Afternoon,Fall,Low,Light,Cloudy
+Afternoon,Winter,Medium,Strong,Cloudy
+Night,Spring,High,Light,Clear
+Night,Summer,Medium,Strong,Clear
+Night,Fall,Low,Light,Cloudy
+Night,Winter,High,Strong,Cloudy
+Morning,Spring,Medium,Strong,Rainy
+Afternoon,Summer,Low,Light,Rainy
